@@ -1,7 +1,7 @@
 {
     "token": "ENTER YOUR TOKEN HERE",
     "stream": {
-        "name": "nothing",
-        "url": "https://www.twitch.tv/sackuro"
+        "name": "ENTER STREAM NAME",
+        "url": "https://www.twitch.tv/ENTER STREAM ID"
     }
 }
